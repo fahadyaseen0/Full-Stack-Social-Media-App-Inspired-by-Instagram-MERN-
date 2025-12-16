@@ -1,7 +1,6 @@
 # Instagram MERN
 Full-Stack Instagram Clone using MERN Stack and Socket.IO
 
-[Visit Now](https://instagramweb-mern.vercel.app) 🚀
 
 ## 🖥️ Tech Stack
 **Frontend:**
@@ -36,15 +35,7 @@ Full-Stack Instagram Clone using MERN Stack and Socket.IO
 
 Follow the steps below to get the project running locally 👇
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/jigar-sable/instagram-mern.git
-cd instagram-mern
-```
-### 2️⃣ Setup Backend
-```bash
-npm install
-```
+
 
 Before running the backend, go to:
 ```bash
@@ -116,13 +107,7 @@ Now your app should be running successfully 🎉
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116105-15b9425c-1fec-4a52-84ba-cf97eef93891.png" alt="mockup" /></td>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116112-1c7dec3e-0f3a-45a8-83d3-6d6b9ee1d5de.png" alt="mockups" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116115-46f15626-372d-4349-8ef4-a04a70600dcc.png" alt="mockup" /></td>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116118-ac3d261b-eb50-4a7b-a8e6-cd1a0f5720de.png" alt="mockups" /></td>
-  </tr>
+  
 </table>
 
 <h2>📬 Contact</h2>
